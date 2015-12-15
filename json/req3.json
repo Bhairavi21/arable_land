@@ -1,0 +1,506 @@
+[
+    {
+        "year": "1960",
+        "ASIA": 0,
+        "AFRICA": 0,
+        "EUROPE": 0,
+        "N_AMERICA": 0,
+        "S_AMERICA": 0,
+        "OCEANIA": 0
+    },
+    {
+        "year": "1961",
+        "ASIA": 392199500,
+        "AFRICA": 164835020,
+        "EUROPE": 124100800,
+        "N_AMERICA": 249701000,
+        "S_AMERICA": 56214000,
+        "OCEANIA": 33469000
+    },
+    {
+        "year": "1962",
+        "ASIA": 393448800,
+        "AFRICA": 166991000,
+        "EUROPE": 123811800,
+        "N_AMERICA": 246465000,
+        "S_AMERICA": 58788000,
+        "OCEANIA": 35380000
+    },
+    {
+        "year": "1963",
+        "ASIA": 395447200,
+        "AFRICA": 173014820,
+        "EUROPE": 123293400,
+        "N_AMERICA": 249358000,
+        "S_AMERICA": 61490000,
+        "OCEANIA": 36303000
+    },
+    {
+        "year": "1964",
+        "ASIA": 396497000,
+        "AFRICA": 175846140,
+        "EUROPE": 122477400,
+        "N_AMERICA": 248239000,
+        "S_AMERICA": 63144000,
+        "OCEANIA": 38644000
+    },
+    {
+        "year": "1965",
+        "ASIA": 397942400,
+        "AFRICA": 181206260,
+        "EUROPE": 121708200,
+        "N_AMERICA": 247437000,
+        "S_AMERICA": 64731000,
+        "OCEANIA": 40229000
+    },
+    {
+        "year": "1966",
+        "ASIA": 398000100,
+        "AFRICA": 176954980,
+        "EUROPE": 120622400,
+        "N_AMERICA": 246399000,
+        "S_AMERICA": 66825000,
+        "OCEANIA": 42882000
+    },
+    {
+        "year": "1967",
+        "ASIA": 398801500,
+        "AFRICA": 181814740,
+        "EUROPE": 120088800,
+        "N_AMERICA": 245268000,
+        "S_AMERICA": 68552000,
+        "OCEANIA": 44554000
+    },
+    {
+        "year": "1968",
+        "ASIA": 398429600,
+        "AFRICA": 183322900,
+        "EUROPE": 119361800,
+        "N_AMERICA": 251963000,
+        "S_AMERICA": 72064000,
+        "OCEANIA": 44650000
+    },
+    {
+        "year": "1969",
+        "ASIA": 397505800,
+        "AFRICA": 195249060,
+        "EUROPE": 119056500,
+        "N_AMERICA": 260185000,
+        "S_AMERICA": 75113000,
+        "OCEANIA": 44774000
+    },
+    {
+        "year": "1970",
+        "ASIA": 397916400,
+        "AFRICA": 189962940,
+        "EUROPE": 117994100,
+        "N_AMERICA": 258966000,
+        "S_AMERICA": 77320000,
+        "OCEANIA": 44907500
+    },
+    {
+        "year": "1971",
+        "ASIA": 395755700,
+        "AFRICA": 188837120,
+        "EUROPE": 115594600,
+        "N_AMERICA": 258404000,
+        "S_AMERICA": 79366000,
+        "OCEANIA": 44411000
+    },
+    {
+        "year": "1972",
+        "ASIA": 397768200,
+        "AFRICA": 180299000,
+        "EUROPE": 115124700,
+        "N_AMERICA": 258210000,
+        "S_AMERICA": 80730000,
+        "OCEANIA": 43923000
+    },
+    {
+        "year": "1973",
+        "ASIA": 399820700,
+        "AFRICA": 190693000,
+        "EUROPE": 114478900,
+        "N_AMERICA": 258120000,
+        "S_AMERICA": 81909000,
+        "OCEANIA": 43496000
+    },
+    {
+        "year": "1974",
+        "ASIA": 400885500,
+        "AFRICA": 181996000,
+        "EUROPE": 114396800,
+        "N_AMERICA": 257549000,
+        "S_AMERICA": 84096000,
+        "OCEANIA": 45390000
+    },
+    {
+        "year": "1975",
+        "ASIA": 399660400,
+        "AFRICA": 181549000,
+        "EUROPE": 113947100,
+        "N_AMERICA": 258000000,
+        "S_AMERICA": 85212000,
+        "OCEANIA": 45444000
+    },
+    {
+        "year": "1976",
+        "ASIA": 400354400,
+        "AFRICA": 182629000,
+        "EUROPE": 113646400,
+        "N_AMERICA": 258423000,
+        "S_AMERICA": 86487000,
+        "OCEANIA": 45253000
+    },
+    {
+        "year": "1977",
+        "ASIA": 401496400,
+        "AFRICA": 171775000,
+        "EUROPE": 113620500,
+        "N_AMERICA": 259079000,
+        "S_AMERICA": 87611000,
+        "OCEANIA": 44258000
+    },
+    {
+        "year": "1978",
+        "ASIA": 403723000,
+        "AFRICA": 169728000,
+        "EUROPE": 113861400,
+        "N_AMERICA": 261744000,
+        "S_AMERICA": 87666000,
+        "OCEANIA": 45693000
+    },
+    {
+        "year": "1979",
+        "ASIA": 404830300,
+        "AFRICA": 167414000,
+        "EUROPE": 113610400,
+        "N_AMERICA": 261914000,
+        "S_AMERICA": 88607000,
+        "OCEANIA": 47077500
+    },
+    {
+        "year": "1980",
+        "ASIA": 404923700,
+        "AFRICA": 171194000,
+        "EUROPE": 113552300,
+        "N_AMERICA": 262407000,
+        "S_AMERICA": 88796000,
+        "OCEANIA": 47136000
+    },
+    {
+        "year": "1981",
+        "ASIA": 405179600,
+        "AFRICA": 164670000,
+        "EUROPE": 113455700,
+        "N_AMERICA": 262763000,
+        "S_AMERICA": 89537000,
+        "OCEANIA": 46079000
+    },
+    {
+        "year": "1982",
+        "ASIA": 411499100,
+        "AFRICA": 167116000,
+        "EUROPE": 113460600,
+        "N_AMERICA": 262028000,
+        "S_AMERICA": 91854000,
+        "OCEANIA": 49438000
+    },
+    {
+        "year": "1983",
+        "ASIA": 414145900,
+        "AFRICA": 167628000,
+        "EUROPE": 112968900,
+        "N_AMERICA": 262614000,
+        "S_AMERICA": 91933000,
+        "OCEANIA": 47933600
+    },
+    {
+        "year": "1984",
+        "ASIA": 423898700,
+        "AFRICA": 175065000,
+        "EUROPE": 113304100,
+        "N_AMERICA": 262629500,
+        "S_AMERICA": 92119000,
+        "OCEANIA": 50181000
+    },
+    {
+        "year": "1985",
+        "ASIA": 431731200,
+        "AFRICA": 181317000,
+        "EUROPE": 113313600,
+        "N_AMERICA": 263147000,
+        "S_AMERICA": 92304000,
+        "OCEANIA": 50227000
+    },
+    {
+        "year": "1986",
+        "ASIA": 431597200,
+        "AFRICA": 191646000,
+        "EUROPE": 113333900,
+        "N_AMERICA": 262997000,
+        "S_AMERICA": 94001000,
+        "OCEANIA": 49957400
+    },
+    {
+        "year": "1987",
+        "ASIA": 434387600,
+        "AFRICA": 191926000,
+        "EUROPE": 113520300,
+        "N_AMERICA": 261872000,
+        "S_AMERICA": 94104000,
+        "OCEANIA": 50125700
+    },
+    {
+        "year": "1988",
+        "ASIA": 433790100,
+        "AFRICA": 193346000,
+        "EUROPE": 113036000,
+        "N_AMERICA": 262493000,
+        "S_AMERICA": 93812000,
+        "OCEANIA": 50102000
+    },
+    {
+        "year": "1989",
+        "ASIA": 435844600,
+        "AFRICA": 194541000,
+        "EUROPE": 112076600,
+        "N_AMERICA": 263562000,
+        "S_AMERICA": 93849000,
+        "OCEANIA": 50832500
+    },
+    {
+        "year": "1990",
+        "ASIA": 435868300,
+        "AFRICA": 196265000,
+        "EUROPE": 111834000,
+        "N_AMERICA": 264465000,
+        "S_AMERICA": 94455000,
+        "OCEANIA": 51158000
+    },
+    {
+        "year": "1991",
+        "ASIA": 435013400,
+        "AFRICA": 201380000,
+        "EUROPE": 111117700,
+        "N_AMERICA": 265346000,
+        "S_AMERICA": 95646000,
+        "OCEANIA": 48682000
+    },
+    {
+        "year": "1992",
+        "ASIA": 605469800,
+        "AFRICA": 203579000,
+        "EUROPE": 162534500,
+        "N_AMERICA": 263957000,
+        "S_AMERICA": 95585000,
+        "OCEANIA": 49908200
+    },
+    {
+        "year": "1993",
+        "ASIA": 601541300,
+        "AFRICA": 206741000,
+        "EUROPE": 165068800,
+        "N_AMERICA": 263015000,
+        "S_AMERICA": 95867000,
+        "OCEANIA": 48865200
+    },
+    {
+        "year": "1994",
+        "ASIA": 597591200,
+        "AFRICA": 209317000,
+        "EUROPE": 164226100,
+        "N_AMERICA": 262274000,
+        "S_AMERICA": 96704000,
+        "OCEANIA": 49642200
+    },
+    {
+        "year": "1995",
+        "ASIA": 594941400,
+        "AFRICA": 215764000,
+        "EUROPE": 162816200,
+        "N_AMERICA": 262472000,
+        "S_AMERICA": 102040000,
+        "OCEANIA": 42314500
+    },
+    {
+        "year": "1996",
+        "ASIA": 590477400,
+        "AFRICA": 218943000,
+        "EUROPE": 163312100,
+        "N_AMERICA": 259576000,
+        "S_AMERICA": 102101000,
+        "OCEANIA": 38483000
+    },
+    {
+        "year": "1997",
+        "ASIA": 592637300,
+        "AFRICA": 220133000,
+        "EUROPE": 163144500,
+        "N_AMERICA": 258423000,
+        "S_AMERICA": 102540000,
+        "OCEANIA": 42070000
+    },
+    {
+        "year": "1998",
+        "ASIA": 591583800,
+        "AFRICA": 221530000,
+        "EUROPE": 161929500,
+        "N_AMERICA": 257795000,
+        "S_AMERICA": 103097200,
+        "OCEANIA": 46249400
+    },
+    {
+        "year": "1999",
+        "ASIA": 589876700,
+        "AFRICA": 225012000,
+        "EUROPE": 161033100,
+        "N_AMERICA": 256590000,
+        "S_AMERICA": 103367800,
+        "OCEANIA": 47732800
+    },
+    {
+        "year": "2000",
+        "ASIA": 585806600,
+        "AFRICA": 224707000,
+        "EUROPE": 160902800,
+        "N_AMERICA": 256335000,
+        "S_AMERICA": 104054400,
+        "OCEANIA": 49453500
+    },
+    {
+        "year": "2001",
+        "ASIA": 581950900,
+        "AFRICA": 221715920,
+        "EUROPE": 157999000,
+        "N_AMERICA": 256970000,
+        "S_AMERICA": 104920000,
+        "OCEANIA": 51967500
+    },
+    {
+        "year": "2002",
+        "ASIA": 579031500,
+        "AFRICA": 225597080,
+        "EUROPE": 157023300,
+        "N_AMERICA": 254572000,
+        "S_AMERICA": 106788000,
+        "OCEANIA": 48954500
+    },
+    {
+        "year": "2003",
+        "ASIA": 576029400,
+        "AFRICA": 233651370,
+        "EUROPE": 155863430,
+        "N_AMERICA": 253906000,
+        "S_AMERICA": 110899500,
+        "OCEANIA": 48146340
+    },
+    {
+        "year": "2004",
+        "ASIA": 577413400,
+        "AFRICA": 234273610,
+        "EUROPE": 155590800,
+        "N_AMERICA": 248240000,
+        "S_AMERICA": 116698000,
+        "OCEANIA": 48864300
+    },
+    {
+        "year": "2005",
+        "ASIA": 575857360,
+        "AFRICA": 239728920,
+        "EUROPE": 154900250,
+        "N_AMERICA": 246046000,
+        "S_AMERICA": 119883500,
+        "OCEANIA": 50547300
+    },
+    {
+        "year": "2006",
+        "ASIA": 568790700,
+        "AFRICA": 241460130,
+        "EUROPE": 158124820,
+        "N_AMERICA": 241107300,
+        "S_AMERICA": 122135600,
+        "OCEANIA": 48853700
+    },
+    {
+        "year": "2007",
+        "ASIA": 567384900,
+        "AFRICA": 244142600,
+        "EUROPE": 156410220,
+        "N_AMERICA": 242385000,
+        "S_AMERICA": 122803000,
+        "OCEANIA": 45309000
+    },
+    {
+        "year": "2008",
+        "ASIA": 565836680,
+        "AFRICA": 247420570,
+        "EUROPE": 157094000,
+        "N_AMERICA": 241743200,
+        "S_AMERICA": 123991000,
+        "OCEANIA": 45269960
+    },
+    {
+        "year": "2009",
+        "ASIA": 565907260,
+        "AFRICA": 241479140,
+        "EUROPE": 156985470,
+        "N_AMERICA": 237359770,
+        "S_AMERICA": 123970400,
+        "OCEANIA": 46924500
+    },
+    {
+        "year": "2010",
+        "ASIA": 562375970,
+        "AFRICA": 245408600,
+        "EUROPE": 155852730,
+        "N_AMERICA": 234372870,
+        "S_AMERICA": 127271400,
+        "OCEANIA": 43903000
+    },
+    {
+        "year": "2011",
+        "ASIA": 563203040,
+        "AFRICA": 248723850,
+        "EUROPE": 155772690,
+        "N_AMERICA": 228982220,
+        "S_AMERICA": 130256100,
+        "OCEANIA": 48985000
+    },
+    {
+        "year": "2012",
+        "ASIA": 563368210,
+        "AFRICA": 258044460,
+        "EUROPE": 156190750,
+        "N_AMERICA": 235288560,
+        "S_AMERICA": 131966880,
+        "OCEANIA": 48459000
+    },
+    {
+        "year": "2013",
+        "ASIA": 567277580,
+        "AFRICA": 252031230,
+        "EUROPE": 155969000,
+        "N_AMERICA": 231852100,
+        "S_AMERICA": 135789100,
+        "OCEANIA": 47603000
+    },
+    {
+        "year": "2014",
+        "ASIA": 0,
+        "AFRICA": 0,
+        "EUROPE": 0,
+        "N_AMERICA": 0,
+        "S_AMERICA": 0,
+        "OCEANIA": 0
+    },
+    {
+        "year": "2015",
+        "ASIA": 0,
+        "AFRICA": 0,
+        "EUROPE": 0,
+        "N_AMERICA": 0,
+        "S_AMERICA": 0,
+        "OCEANIA": 0
+    }
+]
